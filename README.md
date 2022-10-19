@@ -5,7 +5,7 @@
 
 
 
-1. aşama                    7         root rakamını 7 seçtik.
+1. aşama ###################7#######         root rakamını 7 seçtik.
 
 2. aşama                    7          root'un soluna 5 geliyor
                            /
